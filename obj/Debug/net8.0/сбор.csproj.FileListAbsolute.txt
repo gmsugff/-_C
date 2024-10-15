@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\сбор\сбор\bin\Debug\net8.0\сбор.exe
+C:\Users\User\source\repos\сбор\сбор\bin\Debug\net8.0\сбор.deps.json
+C:\Users\User\source\repos\сбор\сбор\bin\Debug\net8.0\сбор.runtimeconfig.json
+C:\Users\User\source\repos\сбор\сбор\bin\Debug\net8.0\сбор.dll
+C:\Users\User\source\repos\сбор\сбор\bin\Debug\net8.0\сбор.pdb
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.AssemblyInfo.cs
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.dll
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\refint\сбор.dll
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.pdb
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\сбор.genruntimeconfig.cache
+C:\Users\User\source\repos\сбор\сбор\obj\Debug\net8.0\ref\сбор.dll
